@@ -1,4 +1,4 @@
-﻿namespace EFStudantDbContext
+﻿namespace P02_SalesDatabase
 {
     internal class Program
     {
